@@ -15,8 +15,8 @@ export default function About() {
             <div className="col-md">
               <div className="service p-4 bg-base rounded-6 shadow-effect">
                 <p>
-                  I am an CSE student.
-                  I am Srijan Kumar 3rd year btech student of VIT, Bhopal. I am
+                 
+                  I am Srijan Kumar 3rd year btech student of VIT Bhopal and I am a CSE student. I am
                   a geek and curious human besides being an OpenSource
                   enthusiast. I did my Intermediate from Don Bosco Academy,
                   Patna, Bihar. I have managed many college events like Shark
