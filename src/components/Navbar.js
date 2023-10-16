@@ -35,7 +35,7 @@ export default function Navbar() {
               </a>
               <a
                 className="nav-link active"
-                href="https://drive.google.com/file/d/19nLYvflMu-GQWOmTrL18aRbvIba25Mhn/view?usp=share_link"
+                href="https://drive.google.com/file/d/13oSe2fPAXA8be9E_QuMnmtAC7UaL0dh1/view?usp=sharing"
               >
                 Resume
               </a>
